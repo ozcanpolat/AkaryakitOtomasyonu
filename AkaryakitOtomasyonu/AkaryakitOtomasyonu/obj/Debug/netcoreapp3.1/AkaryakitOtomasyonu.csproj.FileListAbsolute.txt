@@ -1,0 +1,14 @@
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AkaryakitOtomasyonu\AkaryakitOtomasyonu\bin\Debug\netcoreapp3.1\AkaryakitOtomasyonu.exe
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AkaryakitOtomasyonu\AkaryakitOtomasyonu\bin\Debug\netcoreapp3.1\AkaryakitOtomasyonu.deps.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AkaryakitOtomasyonu\AkaryakitOtomasyonu\bin\Debug\netcoreapp3.1\AkaryakitOtomasyonu.runtimeconfig.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AkaryakitOtomasyonu\AkaryakitOtomasyonu\bin\Debug\netcoreapp3.1\AkaryakitOtomasyonu.runtimeconfig.dev.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AkaryakitOtomasyonu\AkaryakitOtomasyonu\bin\Debug\netcoreapp3.1\AkaryakitOtomasyonu.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AkaryakitOtomasyonu\AkaryakitOtomasyonu\bin\Debug\netcoreapp3.1\AkaryakitOtomasyonu.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\netcoreapp3.1\AkaryakitOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\netcoreapp3.1\AkaryakitOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\netcoreapp3.1\AkaryakitOtomasyonu.AssemblyInfoInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\netcoreapp3.1\AkaryakitOtomasyonu.AssemblyInfo.cs
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\netcoreapp3.1\AkaryakitOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\netcoreapp3.1\AkaryakitOtomasyonu.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\netcoreapp3.1\AkaryakitOtomasyonu.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\netcoreapp3.1\AkaryakitOtomasyonu.genruntimeconfig.cache
